@@ -1,5 +1,6 @@
 # 👋 Did someone say gist?
 
+ * A [fail2ban filter for the Log4J CVE-2021-44228 exploit](https://gist.github.com/jaygooby/3502143639e09bb694e9c0f3c6203949). More here: [jay.gooby.org/2021/12/13/a-fail2ban-filter-for-the-log4j-cve-2021-44228](https://jay.gooby.org/2021/12/13/a-fail2ban-filter-for-the-log4j-cve-2021-44228)
  * Find [interesting referers](https://gist.github.com/jaygooby/6b57ad9d28b91c7d7faef3636d6ae2f1) in access.log
 
  * [Unknown host](https://gist.github.com/jaygooby/00b58afd85be372a3a4c451dd535f94e) - removes the offending line from `~/.ssh/known_hosts`. More here: [jay.gooby.org/2021/02/10/unknown-host](https://jay.gooby.org/2021/02/10/unknown-host)
