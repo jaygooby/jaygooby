@@ -10,3 +10,5 @@
  * _Up and at 'em_ aka [up-and-atom](https://gist.github.com/jaygooby/6f343daa5bd55d3dfba1235263b2bb3e) - a stupid, but useful pun [jay.gooby.org/2021/01/20/up-and-atom](https://jay.gooby.org/2021/01/20/up-and-atom)
 
  * Send your [Monit alerts to Slack](https://gist.github.com/jaygooby/e6189a42bed234b4e458755db6112502)
+
+ * [Git you bloody git](https://gist.github.com/jaygooby/2762353), obscure `git` calls that I can never remember
