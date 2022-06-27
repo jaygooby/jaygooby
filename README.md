@@ -1,5 +1,7 @@
 # 👋 Did someone say gist?
 
+ * [netblock-from-whois](https://gist.github.com/jaygooby/093cea47ca6e0305d7e138340c37cee6) gets and caches the netblock owner from `whois` for an IP address
+ 
  * A [fail2ban filter for the Log4J CVE-2021-44228 exploit](https://gist.github.com/jaygooby/3502143639e09bb694e9c0f3c6203949). More here: [jay.gooby.org/2021/12/13/a-fail2ban-filter-for-the-log4j-cve-2021-44228](https://jay.gooby.org/2021/12/13/a-fail2ban-filter-for-the-log4j-cve-2021-44228)
  * Find [interesting referers](https://gist.github.com/jaygooby/6b57ad9d28b91c7d7faef3636d6ae2f1) in access.log
 
